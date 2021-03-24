@@ -1,5 +1,5 @@
 {
-  "name": "Chika",
+  "name": "bot",
   "version": "1.0.0",
   "description": "Chika for whatsapp online with termux",
   "main": "index.js",
@@ -18,15 +18,15 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Nurul",
+  "author": "abay",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alonecans/wansap-bot-manca.git"
+    "url": "git+https://github.com/abay52/botV7.git"
   },
   "bugs": {
-    "url": "https://github.com/alonecans/wansap-bot-manca/issues"
+    "url": "https://github.com/abay52/botV7/issues"
   },
-  "homepage": "https://github.com/alonecans/readme.md",
+  "homepage": "https://github.com/abay52/botV7/readme.md",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
